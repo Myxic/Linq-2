@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/bin/Debug/net6.0/Linq 2
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/bin/Debug/net6.0/Linq 2.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/bin/Debug/net6.0/Linq 2.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/bin/Debug/net6.0/Linq 2.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/bin/Debug/net6.0/Linq 2.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/Linq 2.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/Linq 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/Linq 2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/Linq 2.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/Linq 2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/Linq 2.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/refint/Linq 2.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/Linq 2.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/Linq 2.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Linq 2/Linq 2/obj/Debug/net6.0/ref/Linq 2.dll
